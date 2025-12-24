@@ -152,13 +152,5 @@ results.json
 - Local explanations provide clear justifications for individual approvals/rejections.  
 - Recommendations are based on transparent, interpretable insights.
 
-A full interpretation is provided in `report.md`.
-
----
-
-## 👤 Author
-
-**Jayanthi S**  
-GitHub: https://github.com/Jayanthi202/
 
 
